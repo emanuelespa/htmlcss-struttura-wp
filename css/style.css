@@ -31,14 +31,14 @@ main::after{
   height: 70%;
   width: 29%;
   margin-right: 1%;
-  background-color: #ffc0cb;
+  background-color: #d36e70;
 }
 
 .col-central{
   float: left;
   height: 100%;
   width: 40%;
-  background-color: violet;
+  background-color: blueviolet;
 }
 
 .col-right {
@@ -46,7 +46,7 @@ main::after{
   height: 48%;
   width: 29%;
   margin-left: 1%;
-  background-color: #ffc0cb;
+  background-color: #d36e70;
 }
 
 .col-down{
@@ -55,7 +55,7 @@ main::after{
   width: 29%;
   margin-left: 1%;
   margin-top: 10px;
-  background-color: #ffc0cb;
+  background-color: #d36e70;
 }
 
 footer{
