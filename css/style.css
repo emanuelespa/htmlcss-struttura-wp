@@ -7,7 +7,7 @@
 header{
   height: 200px;
   background-color: yellow;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 .container {
@@ -28,22 +28,38 @@ main::after{
 
 .col-left{
   float: left;
-  height: 40%;
+  height: 70%;
   width: 29%;
   margin-right: 1%;
-  background-color: #f400a1;
+  background-color: #ffc0cb;
 }
 
 .col-central{
   float: left;
   height: 100%;
   width: 40%;
-  background-color: grey;
+  background-color: violet;
 }
 
+.col-right {
+  float: left;
+  height: 48%;
+  width: 29%;
+  margin-left: 1%;
+  background-color: #ffc0cb;
+}
+
+.col-down{
+  float: left;
+  height: 48%;
+  width: 29%;
+  margin-left: 1%;
+  margin-top: 10px;
+  background-color: #ffc0cb;
+}
 
 footer{
   height: 100px;
   background-color: lightblue;
-  margin: 20px 0;
+  margin: 10px 0;
 }
