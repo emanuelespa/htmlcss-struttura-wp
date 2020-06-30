@@ -36,7 +36,7 @@ main::after{
 
 .col-central{
   float: left;
-  height: 70%;
+  height: 100%;
   width: 40%;
   background-color: grey;
 }
@@ -45,4 +45,5 @@ main::after{
 footer{
   height: 100px;
   background-color: lightblue;
+  margin: 20px 0;
 }
