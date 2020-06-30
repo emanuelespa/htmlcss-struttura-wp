@@ -38,3 +38,9 @@ main::after{
   width: 40%;
   background-color: grey;
 }
+
+
+footer{
+  height: 100px;
+  background-color: lightblue;
+}
