@@ -16,7 +16,6 @@ header{
 }
 
 main{
-  height: 400px;
   margin: 10px 0;
 }
 
@@ -28,7 +27,6 @@ main::after{
 
 .col-left{
   float: left;
-  height: 70%;
   width: 29%;
   margin-right: 1%;
   background-color: #d36e70;
@@ -36,26 +34,19 @@ main::after{
 
 .col-central{
   float: left;
-  height: 100%;
   width: 40%;
   background-color: blueviolet;
 }
 
 .col-right {
   float: left;
-  height: 48%;
   width: 29%;
   margin-left: 1%;
-  background-color: #d36e70;
 }
 
-.col-down{
-  float: left;
-  height: 48%;
-  width: 29%;
-  margin-left: 1%;
-  margin-top: 10px;
-  background-color: #d36e70;
+.widget{
+  margin-bottom: 10px;
+  background-color: red;
 }
 
 footer{
